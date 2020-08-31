@@ -1,0 +1,17 @@
+.pb-55{
+  padding-bottom:55px;
+}
+.mb-5{
+  margin-bottom:20px;
+}
+.pb30{padding-bottom:30px;}
+
+.remove-cart{
+  float: right;
+  background: none;
+  border: none;
+}
+.d-align{
+  display:flex;
+  justify-content:space-between;
+}
